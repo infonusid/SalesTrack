@@ -10,3 +10,4 @@ T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\obj\Debug\Sa
 T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\obj\Debug\SalesTrack.csproj.GenerateResource.Cache
 T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\obj\Debug\SalesTrack.exe
 T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\obj\Debug\SalesTrack.pdb
+T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\obj\Debug\SalesTrack.csprojResolveAssemblyReference.cache
