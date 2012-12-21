@@ -27,7 +27,7 @@ namespace SalesTrack
 
         private void Window_Loaded_1(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Loaded");
+            MessageBox.Show("Window_Loaded1");
         }
     }
 }
