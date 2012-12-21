@@ -28,7 +28,7 @@ namespace SalesTrack
         private void Window_Loaded_1(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Window_Loaded1");
-            MessageBox.Show("Las miet");
+            MessageBox.Show("Las miet_");
         }
     }
 }
