@@ -1,0 +1,12 @@
+T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\bin\Debug\SalesTrack.exe.config
+T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\bin\Debug\SalesTrack.exe
+T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\bin\Debug\SalesTrack.pdb
+T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\obj\Debug\MainWindow.baml
+T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\obj\Debug\MainWindow.g.cs
+T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\obj\Debug\App.g.cs
+T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\obj\Debug\SalesTrack_MarkupCompile.cache
+T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\obj\Debug\SalesTrack.g.resources
+T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\obj\Debug\SalesTrack.Properties.Resources.resources
+T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\obj\Debug\SalesTrack.csproj.GenerateResource.Cache
+T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\obj\Debug\SalesTrack.exe
+T:\codi_font_distribuit\SalesTrackDevelopment\SalesTrack\SalesTrack\obj\Debug\SalesTrack.pdb
